@@ -1,4 +1,4 @@
-import { Card, CardContent } from "frontend/src/components/ui/card";
+import { Card, CardContent } from "@/components/ui/card";
 import { APITester } from "./APITester";
 import "./index.css";
 

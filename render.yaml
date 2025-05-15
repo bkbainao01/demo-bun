@@ -1,8 +1,0 @@
-services:
-  - type: web
-    name: bun-api
-    env: node
-    plan: free
-    buildCommand: bun install
-    startCommand: bun run server.ts
-    autoDeploy: true
